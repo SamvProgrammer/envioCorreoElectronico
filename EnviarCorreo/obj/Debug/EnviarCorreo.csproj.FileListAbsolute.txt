@@ -1,0 +1,11 @@
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csprojResolveAssemblyReference.cache
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Properties.Resources.resources
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.csproj.GenerateResource.Cache
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.auntentificacion.resources
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.visualizadorWeb.resources
+c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.enviarMensaje.resources
