@@ -9,3 +9,6 @@ c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\ob
 c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.auntentificacion.resources
 c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.visualizadorWeb.resources
 c:\users\samv\documents\visual studio 2015\Projects\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.enviarMensaje.resources
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
