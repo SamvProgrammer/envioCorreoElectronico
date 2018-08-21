@@ -28,7 +28,7 @@ namespace EnviarCorreo
         {
             //Limpiando cookies del navegador
             //this.webBrowser1.Document.ExecCommand("ClearAuthenticationCache", false, null);
-
+            //webBrowser1.Document.Cookie.Remove(0, webBrowser1.Document.Cookie.Length);
             //Armado de la url de envío de auntentificación...
 
             string[] scopes = {
