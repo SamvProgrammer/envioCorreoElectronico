@@ -1,0 +1,10 @@
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\bin\Release\EnviarCorreo.exe.config
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\bin\Release\EnviarCorreo.exe
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\bin\Release\EnviarCorreo.pdb
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.auntentificacion.resources
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.enviarMensaje.resources
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.Properties.Resources.resources
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.visualizadorWeb.resources
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.csproj.GenerateResource.Cache
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.exe
+C:\Users\samv\Desktop\repositorios\envioCorreoElectronico\EnviarCorreo\obj\Release\EnviarCorreo.pdb
